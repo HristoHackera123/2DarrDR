@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\bin\Debug\net8.0\AvgPerRow.exe
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\bin\Debug\net8.0\AvgPerRow.deps.json
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\bin\Debug\net8.0\AvgPerRow.runtimeconfig.json
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\bin\Debug\net8.0\AvgPerRow.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\bin\Debug\net8.0\AvgPerRow.pdb
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\AvgPerRow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\AvgPerRow.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\AvgPerRow.AssemblyInfo.cs
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\AvgPerRow.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\AvgPerRow.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\refint\AvgPerRow.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\AvgPerRow.pdb
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\AvgPerRow.genruntimeconfig.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\AvgPerRow\obj\Debug\net8.0\ref\AvgPerRow.dll

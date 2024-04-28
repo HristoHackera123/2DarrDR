@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\bin\Debug\net8.0\OutputElements.exe
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\bin\Debug\net8.0\OutputElements.deps.json
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\bin\Debug\net8.0\OutputElements.runtimeconfig.json
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\bin\Debug\net8.0\OutputElements.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\bin\Debug\net8.0\OutputElements.pdb
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\OutputElements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\OutputElements.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\OutputElements.AssemblyInfo.cs
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\OutputElements.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\OutputElements.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\refint\OutputElements.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\OutputElements.pdb
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\OutputElements.genruntimeconfig.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\OutputElements\obj\Debug\net8.0\ref\OutputElements.dll

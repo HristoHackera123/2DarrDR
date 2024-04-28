@@ -1,0 +1,14 @@
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\bin\Debug\net8.0\MinPerCol.exe
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\bin\Debug\net8.0\MinPerCol.deps.json
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\bin\Debug\net8.0\MinPerCol.runtimeconfig.json
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\bin\Debug\net8.0\MinPerCol.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\bin\Debug\net8.0\MinPerCol.pdb
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\MinPerCol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\MinPerCol.AssemblyInfoInputs.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\MinPerCol.AssemblyInfo.cs
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\MinPerCol.csproj.CoreCompileInputs.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\MinPerCol.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\refint\MinPerCol.dll
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\MinPerCol.pdb
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\MinPerCol.genruntimeconfig.cache
+C:\Users\encho\source\repos\TwoDimensionalArraysDR\MinPerCol\obj\Debug\net8.0\ref\MinPerCol.dll
